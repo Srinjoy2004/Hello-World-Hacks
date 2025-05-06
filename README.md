@@ -6,8 +6,10 @@
 This project focuses on detecting and segmenting brain tumors using deep learning models. The goal is to accurately predict tumor regions in MRI scans, refine the predicted masks, and visualize them effectively.
 
 ---
-##  Our Deployed Model Preview
+##  Our Deployed Segmentation Model Preview
 [Click Here to Check](https://huggingface.co/spaces/KIZERRRRRR/segmentation_tumor)
+##  Our Deployed Tumor Classification Model Preview
+[Click Here to Check](https://huggingface.co/spaces/KIZERRRRRR/Brain_tumor_classification)
 
 
 ---
@@ -99,11 +101,10 @@ This project focuses on detecting and segmenting brain tumors using deep learnin
 - **Srinjoy Pramanik** - Backend Engineer
 - **Rupkatha Sharma** - Machine Learning Expert
 - **Syed Md Musharraf** - Deep Learning Engineer
-- **Ayushi  Bose** - Frontend Contributor
 - **Mayukh Bhowmik** - Frontend Engineer
 
 
 
 ---
 
-## 📝 This Project is Specially Made For INNOVOCON @2025 By Team Axios
+## 📝 This Project is Specially Made For Hello World Hacks @2025 By Team Axios
